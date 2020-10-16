@@ -1,2 +1,4 @@
 *png
 config.py
+api_keys.py
+*pyc
